@@ -1,0 +1,18 @@
+/* Styling for navigation bar */
+.navbar {
+    background-color: #333; /* Setting background color */
+    padding: 10px 20px; /* Adding padding */
+  }
+  
+  /* Styling for navigation links */
+  .navbar a {
+    color: white; /* Setting text color */
+    text-decoration: none; /* Removing default underline */
+    margin-right: 10px; /* Adding margin */
+  }
+  
+  /* Styling for navigation links on hover */
+  .navbar a:hover {
+    color: #ccc; /* Changing text color on hover */
+  }
+  

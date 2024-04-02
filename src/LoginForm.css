@@ -1,0 +1,23 @@
+/* Styling for LoginForm component */
+.login-form {
+    border: 1px solid #ccc; /* Adding border */
+    padding: 20px; /* Adding padding */
+    width: 300px; /* Setting width */
+    margin: 0 auto; /* Centering horizontally */
+  }
+  
+  /* Styling for input fields */
+  .input-field {
+    margin-bottom: 15px; /* Adding margin bottom */
+  }
+  
+  /* Styling for input elements */
+  .input-field input {
+    width: 100%; /* Taking full width */
+    padding: 10px; /* Adding padding */
+    border-radius: 5px; /* Adding border radius */
+    border: 1px solid #ccc; /* Adding border */
+    box-sizing: border-box; /* Ensuring box-sizing includes padding and border */
+  }
+  
+  
